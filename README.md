@@ -4,6 +4,7 @@ Website showing different resources and lands...
 ## Tema i motivació
 
 **bold text**
+
 *italicized text*
 
 > blockquote
@@ -24,7 +25,7 @@ Inline `code` example...
 
 ---
 
-[title](https://www.example.com)
+Un text explicatiu que apunta a aquest [link](https://www.urv.cat)
 
 ![alt text](image.jpg)
 
