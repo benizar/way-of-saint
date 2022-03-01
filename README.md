@@ -27,7 +27,7 @@ Inline `code` example...
 
 Un text explicatiu que apunta a aquest [link](https://www.urv.cat)
 
-![Una foto de la FTG](images/ftg.JPG)
+![Una foto de la FTG](./images/ftg.JPG)
 
 
 ## Dades
