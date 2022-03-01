@@ -3,20 +3,24 @@ Website showing different resources and lands...
 
 ## Tema i motivació
 
- 	**bold text**
+**bold text**
 *italicized text*
 
 > blockquote
 
 1. First item
-2. Second item
-3. Third item
+1. Second item
+1. Third item
 
 - First item
 - Second item
 - Third item
 
-`code`
+Inline `code` example...
+
+```html
+<br>
+```
 
 ---
 
