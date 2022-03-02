@@ -34,6 +34,14 @@ Un text explicatiu que apunta a aquest [link](https://www.urv.cat)
 
 ## Estructura de la web
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 ## Cartografia amb qgis2web
 
 ## Dificultats i millores
